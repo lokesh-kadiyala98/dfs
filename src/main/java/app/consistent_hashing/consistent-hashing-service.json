@@ -1,0 +1,10 @@
+{
+  "ID": "consistent-hash-service",
+  "Name": "consistent-hash-service",
+  "Tags": [
+    "primary",
+    "v1"
+  ],
+  "Address": "127.0.0.1",
+  "Port": 9000
+}
